@@ -26,7 +26,7 @@ export default function RibbonSystem() {
   const scriptURL = 'https://script.google.com/macros/s/AKfycbx8BIZBqlgiVuiShDnpp-CgaA9d6zfRrcWKoIE0OdPK_I1OPENhR5MF20Q4UotLAXaxJQ/exec';
 
   // এডমিন লগইন তথ্য
-  const ADMIN_CREDENTIALS = { username: "admin_diups", password: "diups_blackmagic" };
+  const ADMIN_CREDENTIALS = { username: "admin_diups", password: "diups_blackmagician" };
 
   // --- ল্যাঙ্গুয়েজ ট্রান্সলেশন অবজেক্ট ---
   const t: any = {
